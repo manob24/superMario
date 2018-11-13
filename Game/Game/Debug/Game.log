@@ -1,0 +1,37 @@
+﻿Build started 11/13/2018 8:00:54 PM.
+     1>Project "C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\SFML\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\tilemaps.h(221): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\tilemaps.h(242): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\collision.h(41): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\collision.h(42): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\menu.h(125): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\menu.h(158): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\save.h(5): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(23): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(261): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(263): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(264): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(290): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(302): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(303): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(328): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(370): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(386): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(401): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(429): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(430): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(450): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(455): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(456): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\rezau\documents\visual studio 2013\projects\game\game\source.cpp(457): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\Debug\Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\SFML\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\Debug\Game.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\Debug\Game.lib" /MACHINE:X86 Debug\Source.obj
+         Game.vcxproj -> C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\Debug\Game.exe
+     1>Done Building Project "C:\Users\rezau\Documents\Visual Studio 2013\Projects\Game\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.46

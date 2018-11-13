@@ -362,9 +362,6 @@ int main()
 				i++;
 				j = 11;
 				if (i / 5 > 8) i = 0;
-				if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::LShift)){
-					pos.x += 10.0f;
-				}
 				pos.x += 2.0f;
 				if (pos.x <= 1) pos.x = 1;
 				int cox = pos.x / 16, coy = (pos.y - 10) / 16;

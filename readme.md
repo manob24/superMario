@@ -69,9 +69,9 @@ configuration properties->  Linker -> General -> Additional Library Directories
 Mohammad Wakilur Islam
 Tanzimul Hoque
 
-Batch 24
-Department of Computer Science & Engineering
-University of Dhaka
-Bangladesh
+Batch 24,
+Department of Computer Science & Engineering,
+University of Dhaka,
+Bangladesh.
 
 
